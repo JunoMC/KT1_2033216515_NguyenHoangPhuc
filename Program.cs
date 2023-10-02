@@ -16,7 +16,7 @@ namespace KT1_2033216515_NguyenHoangPhuc
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Bai2());
+            Application.Run(new Bai3());
         }
     }
 }

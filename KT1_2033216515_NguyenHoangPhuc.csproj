@@ -59,6 +59,12 @@
       <DependentUpon>Bai2.cs</DependentUpon>
     </Compile>
     <Compile Include="Bai2Array.cs" />
+    <Compile Include="Bai3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai3.Designer.cs">
+      <DependentUpon>Bai3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Bai1.resx">
@@ -66,6 +72,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Bai2.resx">
       <DependentUpon>Bai2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai3.resx">
+      <DependentUpon>Bai3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
