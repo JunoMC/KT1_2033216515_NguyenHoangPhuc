@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace KT1_2033216515_NguyenHoangPhuc
 {
@@ -26,6 +22,25 @@ namespace KT1_2033216515_NguyenHoangPhuc
             List<int> arr2 = arr;
             arr2.Sort();
             return arr2;
+        }
+
+        public int Sumary()
+        {
+            return arr.Sum();
+        }
+
+        public int SumWithCondition()
+        {
+            int sum = 0;
+
+            foreach (int i in arr)
+            {
+                if (i % 2 == 0 && i % 3 == 0)
+                {
+                    sum += i;
+                }
+            }
+            return sum;
         }
     }
 }

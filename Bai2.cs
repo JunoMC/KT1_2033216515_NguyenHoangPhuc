@@ -60,5 +60,18 @@ namespace KT1_2033216515_NguyenHoangPhuc
                 MessageBox.Show("Bạn chưa nhập mảng.", "Có lỗi xảy ra", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (b2arr != null)
+            {
+                textBox3.Text = b2arr.Sumary().ToString();
+                textBox4.Text = b2arr.SumWithCondition().ToString();
+            }
+            else
+            {
+                MessageBox.Show("Bạn chưa nhập mảng.", "Có lỗi xảy ra", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }
