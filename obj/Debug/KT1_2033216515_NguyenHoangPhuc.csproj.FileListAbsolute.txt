@@ -10,3 +10,4 @@ D:\Cong Nghe .NET\KT1\KT1_2033216515_NguyenHoangPhuc\KT1_2033216515_NguyenHoangP
 D:\Cong Nghe .NET\KT1\KT1_2033216515_NguyenHoangPhuc\KT1_2033216515_NguyenHoangPhuc\obj\Debug\KT1_2033216515_NguyenHoangPhuc.Bai1.resources
 D:\Cong Nghe .NET\KT1\KT1_2033216515_NguyenHoangPhuc\KT1_2033216515_NguyenHoangPhuc\obj\Debug\KT1_2033216515_NguyenHoangPhuc.Bai2.resources
 D:\Cong Nghe .NET\KT1\KT1_2033216515_NguyenHoangPhuc\KT1_2033216515_NguyenHoangPhuc\obj\Debug\KT1_2033216515_NguyenHoangPhuc.Bai3.resources
+D:\Cong Nghe .NET\KT1\KT1_2033216515_NguyenHoangPhuc\KT1_2033216515_NguyenHoangPhuc\obj\Debug\KT1_2033216515_NguyenHoangPhuc.Menu.resources
