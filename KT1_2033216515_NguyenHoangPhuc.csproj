@@ -65,6 +65,7 @@
     <Compile Include="Bai3.Designer.cs">
       <DependentUpon>Bai3.cs</DependentUpon>
     </Compile>
+    <Compile Include="TongTien.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Bai1.resx">
