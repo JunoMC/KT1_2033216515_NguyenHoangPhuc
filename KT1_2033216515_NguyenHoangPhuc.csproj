@@ -58,6 +58,7 @@
     <Compile Include="Bai2.Designer.cs">
       <DependentUpon>Bai2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Bai2Array.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Bai1.resx">
